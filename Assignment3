@@ -1,0 +1,40 @@
+1. Build - A software build is a set of executable code that is ready for use by customers. 
+Build" refers to a version or a specific instance of a software application. 
+The term "build" is commonly used to describe the compiled code of the software at a particular point in time.
+
+2. Project - A project is a combination of set objectives to be accomplished within a fixed period. 
+A project is well-defined task, which is a collection of several operations done in order to achieve a goal (for example, software development and delivery). 
+
+3. Version - Software version numbers indicate changes in a software product.
+As developers update and improve products, there are often several versions of the product available for end users. 
+
+4. Deployment - Software deployment is the process of making software available to be used on a system by users and other programs
+It involves installing, configuring, and testing a software application to prepare it for operating in a specific environment.
+
+5. Beta - Beta testing is an opportunity for real users to use a product in a production environment to uncover any bugs or issues before a general release. 
+Beta testing is the final round of testing before releasing a product to a wide audience.
+
+6. Refactor - It is a technique used by software developers to enhance the design, structure, and/or implementation of the software (its non-functional attributes) while maintaining its functionality. 
+For example, renaming methods to make their purpose more explicit and easier to comprehend
+
+7. Walkthrough - A thorough explanation (explained through a demo) of each step in a procedure or a process.
+Walkthrough in software testing is used to review documents with peers, managers, and fellow team members who are guided by the author of the document to gather feedback and reach a consensus
+
+8.BRS - Buisnees Requirement Specification 
+BRS is aimed to show how to meet the business requirements on a broader level.
+
+9. LLD - Low Level Design 
+the low level design basically contains a detailed description of every module.
+The LLD describes every module in detail by including the actual logic of every component in the system.
+
+10. CRS - Customer Requirement Specification 
+CRS is a document which consists of requirements of customer in their words only
+
+11. RAD - Rapid Application Development Model 
+Rapid Application Development or RAD means an adaptive software development model based on prototyping and quick feedback with less emphasis on specific planning.
+In general, the RAD approach prioritizes development and building a prototype, rather than planning.
+
+12. Prototype - 
+A prototype is an early sample, model, or release of a product built to test a concept or process. 
+It is a term used in a variety of contexts, including semantics, design, electronics, and software programming. 
+A prototype is generally used to evaluate a new design to enhance precision by system analysts and users.
