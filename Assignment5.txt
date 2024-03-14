@@ -1,0 +1,21 @@
+Software Testing Life (STLC) 
+
+1. Requirement Analysis 
+Requirement analysis in STLC involves understanding, clarifying, and documenting software requirements. It includes identifying testable requirements, creating test cases, reviewing both requirements and test cases, establishing traceability, and iterating as necessary. This ensures that testing aligns with the software's intended functionality and evolves along with project changes.
+
+2. Test Planning 
+Test planning in the Software Testing Life Cycle (STLC) involves defining objectives, determining scope, selecting testing techniques, allocating resources, establishing test environments, creating a test plan document, reviewing and obtaining approval, and monitoring and controlling the testing process. This ensures organized, efficient, and goal-aligned testing activities, leading to high-quality software delivery.
+
+3. TestCase Development 
+Test case development in the Software Testing Life Cycle (STLC) involves understanding requirements, designing test cases, documenting them, reviewing for accuracy, prioritizing based on risk, establishing traceability, preparing test data, considering automation, and maintaining and updating test cases as needed. This ensures comprehensive testing coverage, early defect detection, and improved software quality.
+
+4. Environmental Setup 
+Environment setup in software testing involves configuring the necessary hardware, software, and network settings to create a testing environment that closely resembles the production environment. This setup ensures that tests are conducted under conditions that mimic real-world usage scenarios, allowing for accurate evaluation of software functionality, performance, and reliability.
+
+5. Test Execution 
+Test execution in the Software Testing Life Cycle (STLC) is the phase where test cases are executed based on the test plan. It involves running the designed test cases, comparing actual results with expected results, reporting defects, and retesting fixed issues. Test execution ensures that the software meets specified requirements and performs as intended.
+
+6. Test Cycle Closure 
+Test cycle closure is the final phase in the Software Testing Life Cycle (STLC) where the testing activities for a specific test cycle are concluded. It involves analyzing test results, documenting lessons learned, finalizing test reports, obtaining sign-offs, and archiving testing artifacts. Test cycle closure ensures that all testing objectives have been met, and it provides valuable insights for future testing endeavors.
+
+
